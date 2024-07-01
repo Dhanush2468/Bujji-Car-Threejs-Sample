@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bujji Car
+* source:	https://sketchfab.com/3d-models/bujji-car-7a7d11aadbe348af968cd56834d9532a
+* author:	whitedevil2468 (https://sketchfab.com/dhanushgollavilli02)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bujji Car" (https://sketchfab.com/3d-models/bujji-car-7a7d11aadbe348af968cd56834d9532a) by whitedevil2468 (https://sketchfab.com/dhanushgollavilli02) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
